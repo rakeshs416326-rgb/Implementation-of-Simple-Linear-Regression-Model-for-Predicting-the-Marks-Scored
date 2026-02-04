@@ -74,10 +74,12 @@ plt.show()
 ~~~
 
 ## Output:
-<img width="337" height="162" alt="image" src="https://github.com/user-attachments/assets/4f6d82c4-0087-4156-b2d3-bc6eb6cdb299" />
+<img width="495" height="169" alt="image" src="https://github.com/user-attachments/assets/308a0184-b91f-495c-814c-98372788355d" />
+<img width="373" height="88" alt="image" src="https://github.com/user-attachments/assets/f9524dbe-484d-44ae-9e1a-231400c52827" />
 
-<img width="437" height="172" alt="image" src="https://github.com/user-attachments/assets/44988201-51b8-40ce-94fa-62f0bfe90c5a" />
-<img width="1098" height="680" alt="image" src="https://github.com/user-attachments/assets/81c6d296-6821-4fed-aeef-e16eed18a5fa" />
+<img width="421" height="87" alt="image" src="https://github.com/user-attachments/assets/a38b1477-768e-4f19-a02d-edb3397a765a" />
+<img width="933" height="708" alt="image" src="https://github.com/user-attachments/assets/54fc6886-7a1d-469b-9178-89341eab5ff3" />
+
 
 
 ## Result:
