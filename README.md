@@ -71,6 +71,8 @@ plt.title("Simple Linear Regression: Predicting Marks")
 plt.legend()
 plt.grid(True)
 plt.show()
+#name :rakesh s
+#ref no:25018957
 ~~~
 
 ## Output:
